@@ -34,7 +34,7 @@ A simple **College Bus Management System** developed using **Java Swing, JDBC, a
 
 ## 4. Delete Bus Route
 
-![Delete Bus Route](./images/output-4.png)
+![Delete Bus Route](output-images/output-4.png)
 
 ## 5. CSV Import
 
