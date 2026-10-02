@@ -38,7 +38,7 @@ A simple **College Bus Management System** developed using **Java Swing, JDBC, a
 
 ## 6. CSV Import
 
-![CSV Import](./images/output-5.png)
+![CSV Import]("./output-images/output-5.png")
 
 
 ## Technologies Used
