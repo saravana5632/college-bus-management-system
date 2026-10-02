@@ -22,15 +22,15 @@ A simple **College Bus Management System** developed using **Java Swing, JDBC, a
 
 ## 1. Main Interface
 
-![Main Interface](./images/output-1.png)
+![Main Interface](output-images/output-1.png)
 
 ## 2. Add Bus Route (Insert Record)
 
-![Add Bus Route](./images/output-2.png)
+![Add Bus Route](output-images/output-2.png)
 
 ## 3. Update Bus Route
 
-![Update Bus Route](./images/output-3.png)
+![Update Bus Route](output-images/output-3.png)
 
 ## 4. Delete Bus Route
 
@@ -38,7 +38,7 @@ A simple **College Bus Management System** developed using **Java Swing, JDBC, a
 
 ## 5. CSV Import
 
-![CSV Import]("output-images/output-5.png")
+![CSV Import](output-images/output-5.png)
 
 
 ## Technologies Used
