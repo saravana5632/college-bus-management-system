@@ -1,0 +1,78 @@
+﻿S.No,Bus No (Route),Source,Destination,Source Time,Destination Time
+1,1,ARCOT ,Panimalar Engineering College,5.10 a.m.,7.15.a.m
+2,2,VANDAVASI ,Panimalar Engineering College,5.05 Α.Μ,7.15 Α.Μ
+3,3,RCM SCHOOL ,Panimalar Engineering College,5.10 Α.Μ,7.15 Α.Μ
+4,4,VALPATTARAI ,Panimalar Engineering College,5.45a.m,7.15.a.m
+5,5,MILITARY ROAD ,Panimalar Engineering College,5.45a.m,7.15.a.m
+6,6,HOUSING BOARD ,Panimalar Engineering College,5.45 Α.Μ,7.15 Α.Μ
+7,7,KANCHEEPURAM BUS STAND ,Panimalar Engineering College,6.00 a.m.,7.15.a.m
+8,8,YAMAHA SHOWROOM ,Panimalar Engineering College,6.15 a.m.,7.15.a.m
+9,9,CHEKKADU ,Panimalar Engineering College,6.05 a.m.,7.15.a.m
+10,10,PANAPAKKAM ,Panimalar Engineering College,5.30 a.m,7.15 a.m
+11,11,ARAKONAM BUS STAND ,Panimalar Engineering College,5.50 a.m,7.15.a.m
+12,12,PERAMBAKKAM ,Panimalar Engineering College,6.25 a.m,7.15.a.m
+13,13,TIRUTTANI DEPOT ,Panimalar Engineering College,5.15 Α.Μ,7.30 a.m.
+14,14,KG KANDIGAI ,Panimalar Engineering College,5.10 a.m.,7.15.a.m
+15,15,KADAMBATHUR ,Panimalar Engineering College,6.10 a.m.,7.15.a.m
+16,16,UTHUKOTTAI CIRCLE OFFICE ,Panimalar Engineering College,5.55 a.m.,7.15.a.m
+17,17,DHAMBARA MEDU ,Panimalar Engineering College,5.35 a.m.,7.10.a.m
+18,18,CHEKKADU ,Panimalar Engineering College,6.15 a.m,7.15 a.m
+19,19,THIRUNINDRAVUR (LAKSHMI THEATRE) ,Panimalar Engineering College,6.35 a.m,7.15 a.m
+20,20,THIRUNINDRAVUR ,Panimalar Engineering College,6.20 a.m,7.15 a.m
+21,21,AMIR MAHAL ,Panimalar Engineering College,6.00 a.m,7.15 a.m
+22,22,MUSIC ACADEMY ARYA GOWDA ROAD ,Panimalar Engineering College,5.55 a.m,7.15 a.m
+23,23,MMDA ,Panimalar Engineering College,6.25 a.m,7.15 a.m
+24,24,ATHIPATU ,Panimalar Engineering College,5.30.Α.Μ,7.15 Α.Μ.
+25,25,ERNAVUR LIFT GATE ,Panimalar Engineering College,5.40 Α.Μ,7.15 Α.Μ
+26,26,TOLL GATE ,Panimalar Engineering College,5.45 a.m,7.00.a.m
+27,27,MANI CYCLE SHOP ,Panimalar Engineering College,5.55 Α.Μ,7.15 Α.Μ
+28,28,STANLEY ,Panimalar Engineering College,6.00 a.m,7.15 a.m
+29,29,SHENOY NAGAR PARK ,Panimalar Engineering College,6.00 a.m,7.15 a.m
+30,30,GEMINI ,Panimalar Engineering College,6.10 a.m,7.15 a.m
+31,31,PALLAVAKKAM ,Panimalar Engineering College,5.50 a.m,7.15 a.m
+32,32,MANDHAVELI ,Panimalar Engineering College,6.00 a.m,7.15 a.m
+33,33,SRINIVASA THEATRE ,Panimalar Engineering College,6.05 Α.Μ,7.15 Α.Μ
+34,34,MR NAGAR COLLEGE ,Panimalar Engineering College,5.50 Α.Μ,7.15 Α.Μ
+35,35,TV K NAGAR ,Panimalar Engineering College,6.10 Α.Μ,7.15 Α.Μ
+36,36,PERAMBUR DON BOSCO SCHOOL ,Panimalar Engineering College,5.55 Α.Μ,7.15 Α.Μ
+37,37,JAMALIA ,Panimalar Engineering College,6.00 a.m,7.15 a.m
+38,38,CPCL ,Panimalar Engineering College,5.50 Α.Μ,7.15 Α.Μ
+39,39,MANALI ,Panimalar Engineering College,6.00 Α.Μ,7.15 Α.Μ
+40,40,RETTERI ,Panimalar Engineering College,6.10 a.m,7.15 a.m
+41,41,SIRUVAPURI ,Panimalar Engineering College,5.05 a.m.,7.15 a.m
+42,42,GUMMIDIPOONDI ,Panimalar Engineering College,5.10 a.m,7.15 a.m
+43,43,VINAYAGAPURAM ,Panimalar Engineering College,6.10 a.m,7.15 a.m
+44,44,GOLDEN FLATS ,Panimalar Engineering College,6.25 a.m,7.15 a.m
+45,45,VELLAMMAL HALL ,Panimalar Engineering College,6.20 a.m,7.15 a.m
+46,46,THIRUMANGALAM ,Panimalar Engineering College,6.30 a.m,7.15 a.m
+47,47,GANDHI NAGAR POLICE BOOTH ,Panimalar Engineering College,5.45 Α.Μ,7.15 Α.Μ
+48,48,GANDHI NAGAR POLICE BOOTH ,Panimalar Engineering College,5.45 Α.Μ,7.15 Α.Μ
+49,49,ORAGADAM BUS STOP ,Panimalar Engineering College,6.15 Α.Μ,7.15 Α.Μ
+50,50,MUTHA PUDUPETTAΙ ,Panimalar Engineering College,6.00 a.m.,7.15.a.m
+51,51,VEERAPURAM CAMP ,Panimalar Engineering College,6.10 a.m.,7.15.a.m
+52,52,AVADI CHECK POST ,Panimalar Engineering College,6.20 a.m.,7.15.a.m
+53,53,AMBATTUR O.T ,Panimalar Engineering College,6.20 a.m,7.15 a.m
+54,54,CHINMAYA NAGAR ,Panimalar Engineering College,6.10 a.m,7.15 a.m
+55,55,AVICHI SCHOOL ,Panimalar Engineering College,6.15 a.m,7.15 a.m
+56,56,WEST SAIDAPET ,Panimalar Engineering College,6.00 a.m,7.15 a.m
+57,57,AMBAL NAGAR ,Panimalar Engineering College,6.00 a.m,7.15 a.m
+58,58,SRM ,Panimalar Engineering College,6.00 Α.Μ,7.15 Α.Μ
+59,59,RAJAKILPAKKAM ,Panimalar Engineering College,5.30 Α.Μ,7.15 Α.Μ
+60,60,BHARATH COLLEGE ,Panimalar Engineering College,5.50 Α.Μ,7.15 Α.Μ
+61,61,MEDAVAKKAM ,Panimalar Engineering College,5.50 Α.Μ,7.15 Α.Μ
+62,62,PERUMBAKKAM ,Panimalar Engineering College,5.30 Α.Μ,7.15 Α.Μ
+63,63,CHEGAN MAL ,Panimalar Engineering College,5.10 Α.Μ,7.15 Α.Μ
+64,64,POZHICHALUR ,Panimalar Engineering College,6.30 Α.Μ,7.15 Α.Μ
+65,65,PADAPPAΙ ,Panimalar Engineering College,5.50 a.m,7.15 a.m
+66,66,MADURANTHAKAM ,Panimalar Engineering College,5.30 a.m.,7.15.a.m
+67,67,POZHICHALUR ,Panimalar Engineering College,6.30 a.m,7.15 a.m
+68,68,GOVERMENT HOSPITAL ,Panimalar Engineering College,5.55 a.m.,7.15.a.m
+69,69,URAPAKKAM TEA SHOP ,Panimalar Engineering College,6.30 a.m.,7.15.a.m
+70,70,AMARAMBEDU ,Panimalar Engineering College,6.00.Α.Μ,7.15.Α.Μ
+71,71,MOONDRAM KATTALAI ,Panimalar Engineering College,6.15 a.m,7.15 a.m
+72,72,PORUR ,Panimalar Engineering College,6.30 Α.Μ,7.15 Α.Μ
+73,73,NOOMBAL X ROAD ,Panimalar Engineering College,6.50 Α.Μ,7.15 Α.Μ
+74,74,SUN PLUS COLLEGE ,Panimalar Engineering College,6.20 Α.Μ,7.15 Α.Μ
+75,75,SUNDARAM SUYAPURAM RMK ,Panimalar Engineering College,6.30 Α.Μ,7.15 Α.Μ
+76,76,KAVALCHERY ,Panimalar Engineering College,6.30 Α.Μ,7.15 Α.Μ
+77,77,MEPPUR BUS STAND ,Panimalar Engineering College,6.45 Α.Μ,7.15 Α.Μ.
