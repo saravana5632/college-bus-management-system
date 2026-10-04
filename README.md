@@ -44,6 +44,35 @@ A simple **College Bus Management System** developed using **Java Swing, JDBC, a
 
 ![MySQL](output-images/output-6.png)
 
+## STEPS TO RUN THE PROGRAM:
+ 
+1. Start MySQL and Set Up the Database.
+2. Run the following SQL queries to create your database and table:
+
+```
+CREATE DATABASE IF NOT EXISTS college_bus_db;
+USE college_bus_db;
+
+CREATE TABLE IF NOT EXISTS buses (
+    bus_no VARCHAR(20) PRIMARY KEY,
+    source VARCHAR(100) NOT NULL,
+    destination VARCHAR(100) NOT NULL, 
+    source_time VARCHAR(50) NOT NULL,
+    destination_time VARCHAR(50) NOT NULL
+);
+```
+
+3. Confirm that your MySQL user is root and the password.
+4. Open PowerShell in Your Project Folder
+5. Compile the Application using the command  
+```
+	   javac -cp ".;mysql-connector-j-26.7.0.jar" BusCRUDGUI.java
+```
+6. Run the Application using 
+```
+	  java -cp ".;mysql-connector-j-26.7.0.jar" BusCRUDGUI
+```
+
 
 ## Technologies Used
 
